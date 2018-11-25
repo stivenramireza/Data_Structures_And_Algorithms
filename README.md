@@ -1,2 +1,2 @@
-# Data_Structures_And_Algorithms
+## Data Structures And Algorithms
 Dictionary that searches words through phonetic indexing using binary trees.
